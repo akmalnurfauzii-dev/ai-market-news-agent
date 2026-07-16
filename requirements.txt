@@ -1,0 +1,5 @@
+smolagents
+requests
+ddgs
+openai
+markdownify
